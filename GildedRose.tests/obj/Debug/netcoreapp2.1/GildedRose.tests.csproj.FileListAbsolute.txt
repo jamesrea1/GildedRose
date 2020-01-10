@@ -1,0 +1,17 @@
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\GildedRose.tests.deps.json
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\GildedRose.tests.runtimeconfig.json
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\GildedRose.tests.runtimeconfig.dev.json
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\GildedRose.tests.dll
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\GildedRose.tests.pdb
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\GildedRose.dll
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\bin\Debug\netcoreapp2.1\GildedRose.pdb
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\obj\Debug\netcoreapp2.1\GildedRose.tests.csprojAssemblyReference.cache
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\obj\Debug\netcoreapp2.1\GildedRose.tests.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\obj\Debug\netcoreapp2.1\GildedRose.tests.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\obj\Debug\netcoreapp2.1\GildedRose.tests.AssemblyInfo.cs
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\obj\Debug\netcoreapp2.1\GildedRose.tests.csproj.CopyComplete
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\obj\Debug\netcoreapp2.1\GildedRose.tests.dll
+C:\Users\James\Desktop\GildedRose\GildedRose.tests\obj\Debug\netcoreapp2.1\GildedRose.tests.pdb
